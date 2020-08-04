@@ -1,0 +1,490 @@
+---
+:AC:
+- Babussalam
+- Banda Aceh
+- Bayu
+- Binjai
+- Bireun
+- Idi Rayeuk
+- Kelapa Gading
+- Kualasimpang
+- Langsa
+- Lhokseumawe
+- Matang Seulimeng
+- Sabang
+- Sigli
+- Subulussalam
+- Sumber Agung
+- Takengon
+:BA:
+- Amlapura
+- Badung
+- Denpasar
+- Gianyar
+- Jembrana Subdistrict
+- Klungkung
+- Legian
+- Nusa Dua
+- Seminyak
+- Singaraja
+- Tabanan
+- Ubud
+- Ungasan
+:BB:
+- Jelutung
+- Muntok
+- Pangkalpinang
+:BE:
+- Bengkulu
+- Curup
+- Kepahiang
+- Lebong
+- Uludanau
+:BT:
+- Angsana
+- Anyer
+- Banten
+- Binong
+- Bumiagung
+- Cilegon
+- Ciputat
+- Lebak
+- Masigit
+- Pandeglang
+- Sampora
+- Serang
+- Tangerang
+:GO:
+- Biyonga
+- Gorontalo
+- Limboto
+- Marisa
+- Palopo
+:JA:
+- Jambi City
+- Kuala Tungkal
+- Sarolangun
+:JB:
+- Babakan
+- Babakankaret
+- Babakanloa
+- Bandung
+- Banjar
+- Banjaran
+- Banten
+- Banyuresmi
+- Batujajar
+- Batununggal
+- Bekasi
+- Blukbuk
+- Bobos
+- Bogor
+- Bojonggaok
+- Bojonglarang
+- Buniwangi
+- Caringin
+- Ciadeg
+- Ciamis
+- Cianjur
+- Ciawi
+- Cibalung
+- Cibinong
+- Cibitung
+- Cibodas
+- Cibuntu
+- Cihanyir
+- Cijati
+- Cikadu
+- Cikampek
+- Cikarang
+- Cikupa
+- Cileungsir
+- Cilodong
+- Cimahi
+- Cinta
+- Cipondoh
+- Ciputat
+- Cirebon
+- Ciwaringin
+- Dago Tengah
+- Dawagung
+- Depok
+- Garut
+- Gunungkidul
+- Indramayu
+- Jatiluhur
+- Karawang
+- Kedunghalang
+- Ketanggi
+- Kopo
+- Kuningan
+- Limo
+- Majalengka
+- Malang
+- Mamengger
+- Margajaya
+- Mekarwangi
+- Ngawi
+- Pamanukan
+- Pamulang
+- Pangandaran
+- Purwakarta
+- Sentul
+- Serpong
+- Situ
+- Subang
+- Sukabumi
+- Sumedang
+- Tangsel
+- Tasikmalaya
+:JI:
+- Asembagus
+- Bacem
+- Bagelenan
+- Bakalan
+- Balesono
+- Balongdowo
+- Balongjeruk
+- Bandung Barat
+- Bangah
+- Bangeran
+- Bangkalan
+- Bangkok
+- Bangunsari
+- Banjarejo
+- Banyubang
+- Banyuwangi
+- Bareng
+- Batu
+- Bedilan
+- Belah
+- Berbek
+- Beru
+- Blimbing
+- Blitar
+- Bojonegoro
+- Bondowoso
+- Bulupitu
+- Cakul
+- Cerme
+- Curahtemu
+- Dadapan
+- Dahanrejo Lor
+- Darungan
+- Dupok
+- Gading
+- Gelang
+- Genengan
+- Gongdanglegi Kulon
+- Gresik
+- Jambewangi
+- Jambuwer
+- Jember
+- Jombang
+- Kalisari
+- Kanigaran
+- Kasin
+- Kediri
+- Klojen
+- Krembangan
+- Kutisari
+- Lamongan
+- Lidah Wetan
+- Lumajang
+- Lumbang
+- Madiun
+- Magersari
+- Magetan
+- Malang
+- Mojokerto
+- Mulyorejo
+- Nganjuk
+- Ngegong
+- Pacitan
+- Pandaan
+- Pare
+- Paser
+- Pasuruan
+- Penanggungan
+- Ponorogo
+- Prigen
+- Probolinggo
+- Punggur
+- Ringinpitu
+- Sampang
+- Sidoarjo
+- Situbondo
+- Sumenep
+- Surabaya
+- Tamanan
+- Trenggalek
+- Tuban
+- Tulungagung
+- Wates
+:JK:
+- Angke
+- Bendungan Hilir
+- Cakung
+- Cengkareng
+- Cibubur
+- Ciganjur
+- Cilandak
+- Cilangkap
+- Gambir
+- Jagakarsa
+- Jakarta
+- Jatinegara
+- Kalideres
+- Kapuk
+- Kebayoran Baru
+- Kebayoran Lama Selatan
+- Kemayoran
+- Makasar
+- Mampang
+- Matraman
+- Pademangan Barat
+- Palmerah
+- Pegadungan
+- Petukangan Utara
+- Rawamangun
+- Selong
+- Semper Barat
+- Setiabudi
+- Tanjung Priok
+:JT:
+- Argopeni
+- Baledono
+- Banaran
+- Bandungsari
+- Banjaranyar
+- Banjarnegara
+- Banyumas
+- Banyuroto
+- Banyutowo
+- Barukan
+- Batang
+- Bener
+- Biting
+- Blaru
+- Blora
+- Boyolali
+- Brebes
+- Cepu
+- Cilacap
+- Comal
+- Dekoro
+- Demak
+- Gonilan
+- Grobogan
+- Jepara
+- Kalidoro
+- Karanganyar
+- Karangkebagusan
+- Kartasura
+- Kebumen
+- Kendal
+- Klaten
+- Kudus
+- Kuta
+- Magelang
+- Manggung
+- Nongkosawit
+- Panjang
+- Pati
+- Pekalongan
+- Pemalang
+- Purbalingga
+- Purwodadi Grobogan
+- Purwokerto
+- Purworejo
+- Rembangan
+- Salatiga
+- Semarang
+- Sragen
+- Sukoharjo
+- Surakarta
+- Tegal
+- Ungaran
+- Weleri
+- Wonogiri
+- Wonosobo
+:KB:
+- Bengkayang
+- Ketapang
+- Lampung
+- Melawi
+- Mempawah
+- Ngabang
+- Pontianak
+- Sambas
+- Sekadau
+- Singkawang
+- Tengah
+:KI:
+- Balikpapan
+- Belimbing
+- Bontang
+- Samarinda
+- Sangatta
+- Tenggarong
+:KR:
+- Batam
+- Riau
+- Tandjunguban
+- Tanjung Balai
+- Tanjung Pinang
+:KS:
+- Banjarbaru
+- Banjarmasin
+- Barabai
+- Belandean
+- Belimbing
+- Kandangan
+- Kotabaru Hilir
+- Martapura
+- Pelaihari
+- Tanjung
+:KT:
+- Buntok
+- Palangkaraya
+- Pangkalanbuun
+- Pulang Pisau
+- Sampit
+:KU:
+- Malinau
+- Tarakan
+:LA:
+- Bandar Lampung
+- Jayapura
+- Kotabumi
+- Mesuji
+- Metro
+- Terbanggi Besar
+:MA:
+- Amahai
+- Ambon City
+- Kota Ternate
+:MU:
+- Sofifi
+- Ternate
+- Weda
+:NB:
+- Aikmel
+- Barejulat
+- Labuan Lombok
+- Mataram
+- Pancor
+- Selong
+- Senggigi
+- Seteluk
+:NT:
+- Kupang
+- Labuan Bajo
+:PA:
+- Jayapura
+- Merauke
+- Timika
+:PB:
+- Manokwari
+- Mogoi
+- Sorong
+:RI:
+- Bangkinang
+- Bengkalis
+- Dumai
+- Duri
+- Pekanbaru
+- Rengat
+:SA:
+- Batulintik
+- Bitung
+- Kotamobagu
+- Manado
+- Sario
+- Tomohon
+:SB:
+- Bukittinggi
+- Bungo
+- Padang
+- Padang Aro
+- Sawahlunto
+:SG:
+- Kendari
+:SN:
+- Ballaparang
+- Bantaeng
+- Baranti
+- Barru
+- Bulukumba
+- Enrekang
+- Makassar
+- Maros
+- Masamba
+- Parepare
+- Pinrang
+- Rantepao
+- Sinjai
+- Soppeng
+- Tallunglipu
+- Watampone
+:SR:
+- Mamuju
+- Panasuan
+- Polewali
+- Tinambung
+:SS:
+- Banjar Agung
+- Baturaja
+- Indralaya
+- Kayu Agung
+- Lahat
+- Lubuklinggau
+- Muaradua
+- Palembang
+- Pangkalan Balai
+- Prabumulih
+- Tanjung Karang
+:ST:
+- Lambara
+- Luwuk
+- Palu
+- Parigi
+- Poso
+:SU:
+- Aek Nauli
+- Bali
+- Batu Silangit
+- Berastagi
+- Binjai
+- Bukit Tinggi
+- Deli Serdang
+- Kabanjahe
+- Kampung Besar
+- Katupadang
+- Kisaran
+- Lubuk Pakam
+- Martubung
+- Medan
+- Mesjid
+- Padang
+- Pasar Minggu
+- Pematangsiantar
+- Rantauprapat
+- Samosir
+- Sei Putih Barat
+- Simalungun
+- Stabat
+- Tanah Abang
+- Tanjung Balai
+- Tanjungbalai
+- Tebingtinggi
+:YO:
+- Bantul
+- Demen
+- Jimbaran
+- Karangsari
+- Pondok
+- Sleman
+- Sukoharjo
+- Tamanan
+- Yogyakarta

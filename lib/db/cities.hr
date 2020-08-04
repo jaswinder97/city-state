@@ -1,0 +1,582 @@
+---
+:01:
+- Bestovje
+- Beter
+- Bijela Gorica
+- Brdovec
+- Bregana
+- Busevec
+- Donja Bistra
+- Donja Lomnica
+- Donja Pusca
+- Donja Zdencina
+- Donja Zelina
+- Donji Laduc
+- Donji Stupnik
+- Dugo Selo
+- Gornja Bistra
+- Gornja Lomnica
+- Graberje Ivanicko
+- Harmica
+- Ivanec Bistranski
+- Ivanic-Grad
+- Jakovlje
+- Jastrebarsko
+- Javorje
+- Klostar Ivanic
+- Krasic
+- Kravarsko
+- Kriz
+- Novo Cice
+- Novoselec
+- Oresje
+- Pisarovina
+- Podsused
+- Poljanica Bistranska
+- Prigorje Brdovecko
+- Rakov Potok
+- Rakovec
+- Samobor
+- Strmec Samoborski
+- Sveta Nedjelja
+- Sveti Ivan Zelina
+- Sveti Martin pod Okicem
+- Velika Gorica
+- Velika Mlaka
+- Vrbovec
+- Zaprešić
+:02:
+- Bedekovcina
+- Belec
+- Budinscina
+- Desinic
+- Donja Stubica
+- Durmanec
+- Gornja Stubica
+- Gornje Jesenje
+- Hum na Sutli
+- Klanjec
+- Kraljevec na Sutli
+- Krapina
+- Krapinske Toplice
+- Kumrovec
+- Lobor
+- Mace
+- Marija Bistrica
+- Oroslavje
+- Petrovsko
+- Poznanovec
+- Pregrada
+- Radoboj
+- Sveti Kriz Zacretje
+- Tuhelj
+- Veliko Trgovisce
+- Zabok
+- Zlatar
+- Zlatar bistrica
+:03:
+- Begovici
+- Blinjski Kut
+- Donja Jelenska
+- Dvor
+- Glina
+- Gvozd
+- Hrvatska Dubica
+- Hrvatska Kostajnica
+- Kutina
+- Lekenik
+- Lipovljani
+- Novska
+- Petrinja
+- Popovaca
+- Repusnica
+- Sisak
+- Sunja
+- Topusko
+- Velika Ludina
+:04:
+- Desmerice
+- Drage
+- Dreznik Grad
+- Duga Resa
+- Generalski Stol
+- Karlovac
+- Lasinja
+- Mahicno
+- Ogulin
+- Ozalj
+- Plaski
+- Rakovica
+- Ribnik
+- Salopeki
+- Slunj
+:05:
+- Bedenec
+- Beretinec
+- Bisag
+- Cestica
+- Donja Voca
+- Donji Kneginec
+- Donji Kucan
+- Gornji Kneginec
+- Hrzenica
+- Ivanec
+- Karlovec Ludbreski
+- Klenovnik
+- Lepoglava
+- Ljubescica
+- Ludbreg
+- Mali Bukovec
+- Martijanec
+- Marusevec
+- Novi Marof
+- Petrijanec
+- Sracinec
+- Sveti Durd
+- Sveti Ilija
+- Trnovec Bartolovecki
+- Turcin
+- Varazdinske Toplice
+- Varaždin
+- Vinica
+- Virje Krizovljansko
+- Visoko
+:06:
+- Budancevica
+- Delekovec
+- Drnje
+- Ferdinandovac
+- GJurgevac
+- Gornja Rijeka
+- Hlebine
+- Kalnik
+- Koprivnica
+- Koprivnicki Bregi
+- Krizevci
+- Legrad
+- Molve
+- Novigrad Podravski
+- Peteranec
+- Rasinja
+- Semovci
+- Sveti Ivan Zabno
+- Sveti Petar Orehovec
+- Torcec
+- Virje
+:07:
+- Bastajski Brdani
+- Berek
+- Bjelovar
+- Daruvar
+- Dezanovac
+- Garesnica
+- Gornji Draganec
+- Grubisno Polje
+- Hercegovac
+- Nova Raca
+- Rovisce
+- Sirac
+- Veliki Grgevac
+- Veliki Zdenci
+- Veliko Trojstvo
+- Čazma
+:08:
+- Bakar
+- Baska
+- Bribir
+- Cabar
+- Cavle
+- Cernik
+- Cres
+- Crikvenica
+- Cunski
+- Delnice
+- Dobrinj
+- Dramalj
+- Drazice
+- Drivenik
+- Fuzine
+- Gerovo
+- Hreljin
+- Icici
+- Jadranovo
+- Jurdani
+- Kastav
+- Klana
+- Kornic
+- Kostrena
+- Kraljevica
+- Krasica
+- Krk
+- Kukuljanovo
+- Lopar
+- Lovran
+- Mali Lošinj
+- Malinska
+- Matulji
+- Mrkopalj
+- Njivice
+- Novi Vinodolski
+- Omisalj
+- Opatija
+- Prezid
+- Punat
+- Rab
+- Ravna Gora
+- Rijeka
+- Selce
+- Silo
+- Skrad
+- Skrljevo
+- Slatina
+- Smrika
+- Tribalj
+- Trsce
+- Viskovo
+- Vrbnik
+- Vrbovsko
+- Zlobin
+:09:
+- Barlete
+- Brinje
+- Drakulica Rijeka
+- Gospić
+- Jezerane
+- Korenica
+- Licki Osik
+- Novalja
+- Otocac
+- Plitvica
+- Plitvica Lakes
+- Senj
+- Zubovici
+:10:
+- Cabuna
+- Cacinci
+- Dinjevac
+- Gradina
+- Mikleus
+- Orahovica
+- Pitomaca
+- Slatina
+- Spisic-Bukovica
+- Suhopolje
+- Virovitica
+- Zdenci
+:11:
+- Alaginci
+- Badljevina
+- Jaksic
+- Kaptol
+- Kutjevo
+- Lipik
+- Pakrac
+- Pleternica
+- Požega
+- Velika
+- Vetovo
+:12:
+- Batrina
+- Bebrina
+- Brodski Varos
+- Brodski Zdenci
+- Bukovlje
+- Davor
+- Donji Andrijevci
+- Dragalic
+- Gornja Bebrina
+- Gornji Bogicevci
+- Nova Gradiska
+- Nova Kapela
+- Okucani
+- Oprisavci
+- Oriovac
+- Sibinj
+- Sikirevci
+- Slavonski Brod
+- Slavonski Kobas
+- Stara Gradiska
+- Staro Petrovo Selo
+- Velika Kopanica
+- Vrbje
+:13:
+- Benkovac
+- Bibinje
+- Biograd na Moru
+- Bozava
+- Donja Jagodnja
+- Gracac
+- Jesenice
+- Kali
+- Maslenica
+- Nin
+- Pag
+- Pakostane
+- Paljuv
+- Petrcane
+- Ploce
+- Polaca
+- Posedarje
+- Preko
+- Pridraga
+- Razanac
+- Sali
+- Stankovci
+- Starigrad
+- Sukosan
+- Turanj
+- Ugljan
+- Vir
+- Zadar
+- Zemunik Donji
+:14:
+- Antunovac
+- Beli Manastir
+- Belišće
+- Bijelo Brdo
+- Bilje
+- Bizovac
+- Breznica Nasicka
+- Ceminac
+- Cepin
+- Dalya
+- Darda
+- Donja Moticina
+- Donji Miholjac
+- Erdut
+- Fericanci
+- Forkusevci
+- Golinci
+- Grabovac
+- Josipovac
+- Klisa
+- Knezevi Vinogradi
+- Koska
+- Ladimirevci
+- Laslovo
+- Levanjska Varos
+- Marjanci
+- Našice
+- Novaki Bizovacki
+- Osijek
+- Petrijevci
+- Piskorevci
+- Podgajci Podravski
+- Podolje
+- Podravska Moslavina
+- Rakitovica
+- Satnica
+- Semeljci
+- Siroko Polje
+- Susine
+- Suza
+- Tenja
+- Valpovo
+- Viljevo
+- Viskovci
+- Visnjevac
+- Vladislavci
+- Đakovo
+:15:
+- Betina
+- Biskupija
+- Drniš
+- Kadina Glavica
+- Knin
+- Murter
+- Oklaj
+- Pirovac
+- Primosten
+- Raslina
+- Rogoznica
+- Skradin
+- Tisno
+- Tribunj
+- Vodice
+- Šibenik
+:16:
+- Andrijasevci
+- Antin
+- Babina Greda
+- Bogdanovci
+- Bosnjaci
+- Cerna
+- Gradiste
+- Gunja
+- Ilok
+- Ivankovo
+- Jarmina
+- Komletinci
+- Lovas
+- Markusica
+- Nijemci
+- Nustar
+- Otok
+- Podrinje
+- Privlaka
+- Racinovci
+- Rokovci
+- Slakovci
+- Stari Mikanovci
+- Stitar
+- Tordinci
+- Tovarnik
+- Trpinja
+- Vinkovci
+- Vodinci
+- Vrbanja
+- Vukovar
+- Županja
+:17:
+- Baska Voda
+- Blaca
+- Bol
+- Brela
+- Dicmo
+- Donji Seget
+- Drasnice
+- Dugi Rat
+- Grad
+- Hrvace
+- Hvar
+- Igrane
+- Imotski
+- Jelsa
+- Kamen
+- Kastel Gomilica
+- Kastel Kambelovac
+- Kastel Luksic
+- Kastel Novi
+- Kastel Stafilic
+- Kastel Stari
+- Kastel Sucurac
+- Klis
+- Komiža
+- Krivodol
+- Makarska
+- Marina
+- Mastrinka
+- Mravince
+- Nerezisce
+- Okrug Gornji
+- Omiš
+- Podbablje
+- Podgora
+- Podstrana
+- Postira
+- Pucisca
+- Selca kod Bogomolja
+- Sinj
+- Slatine
+- Solin
+- Split
+- Stobrec
+- Sumartin
+- Supetar
+- Sutivan
+- Sveta Nedelja
+- Trilj
+- Trogir
+- Tugare
+- Vis
+- Vodice
+- Vranjic
+- Vrbanj
+- Vrgorac
+- Zrnovnica
+:18:
+- Bale
+- Barban
+- Buje
+- Buzet
+- Cerovlje
+- Donje Baredine
+- Fazana
+- Funtana
+- Kanfanar
+- Karojba
+- Kastelir
+- Koromacno
+- Krsan
+- Labin
+- Marcana
+- Medulin
+- Motovun
+- Nedescina
+- Novigrad
+- Pazin
+- Pican
+- Plomin
+- Poreč
+- Potpican
+- Pula
+- Rabac
+- Rasa
+- Rovinj
+- Savudrija
+- Selina
+- Sveti Lovrec
+- Sveti Petar u Sumi
+- Svetvincenat
+- Tar
+- Umag
+- Visignano
+- Vizinada
+- Vodnjan
+- Vrsar
+- Zminj
+:19:
+- Blace
+- Cavtat
+- Cilipi
+- Dubrovnik
+- Gruda
+- Korčula
+- Kula Norinska
+- Lastovo
+- Loviste
+- Lumbarda
+- Metković
+- Mlini
+- Mokosica
+- Opuzen
+- Orasac
+- Orebic
+- Rogotin
+- Smokvica
+- Ston
+- Vela Luka
+- Zrnovo
+:20:
+- Belica
+- Dekanovec
+- Donja Dubrava
+- Donji Kraljevec
+- Donji Vidovec
+- Gorican
+- Kotoriba
+- Lopatinec
+- Macinec
+- Mala Subotica
+- Mursko Sredisce
+- Nedelisce
+- Orehovica
+- Podbrest
+- Podturen
+- Prelog
+- Puscine
+- Selnica
+- Strahoninec
+- Strigova
+- Sveti Martin na Muri
+- Čakovec
+:21:
+- Brezovica
+- Dubrava
+- Ivanja Reka
+- Kraljevec Kupinecki
+- Lucko
+- Markusevecka Dubrava
+- Sesvete
+- Sesvetski Kraljevec
+- Zagreb
